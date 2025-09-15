@@ -24,7 +24,3 @@ Daily & monthly admission patterns
 6)By Using the Columns Race and Gender visualize the racial demographics by gender.
 
 7)Department wise Patient Admission
-
-Dashboard:https://1drv.ms/u/c/babebdd64d62c97b/EeFHrQ9wMNhJnVG1h_lM5H8BNQOAcfj7yV2RxQaWZjo9hw?e=JDA7O2
-https://onedrive.live.com/?view=8&photosData=%2Fphoto%2FBABEBDD64D62C97B%21sed7cccf67a714c03bc493e3e418f620a%3Fview%3Dall
-https://onedrive.live.com/?view=8&startedResponseCatch=true&photosData=%2Fphoto%2FBABEBDD64D62C97B%21sce62c0616cb74d62a6319389a7f08b59%3Fview%3Dall
